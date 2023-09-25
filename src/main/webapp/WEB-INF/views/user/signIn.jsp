@@ -3,11 +3,11 @@
     <!-- header -->
     <!-- main -->
     <div class="col-sm-8">
-      <h2>회원가입</h2>
+      <h2>로그인</h2>
       <h5>어서오세요 환영합니다.</h5>
       <div class="bg-light p-md-5 h-75">
       	<div class="form-group">
-	      	<form action="sign-up" method="post">
+	      	<form action="sign-in" method="post">
 	      		<div class="form-group">
 	      			<label for="username">username</label>
 	      			<input type="text" class="form-control" id="username" name="username" placeholder="이름을 입력해주세요.">
@@ -16,11 +16,7 @@
 	      			<label for="password">password</label>
 	      			<input type="password" class="form-control" id="password" name="password" placeholder="비밀번호를 입력해주세요.">
 	      		</div>
-	      		<div class="form-group">
-	      			<label for="fullname">fullname</label>
-	      			<input type="text" class="form-control" id="fullname" name="fullname" placeholder="풀네임 입력해주세요.">
-	      		</div>
-	      		<button type="submit" class="btn btn-primary">가입</button>
+	      		<button type="submit" class="btn btn-primary">로그인</button>
 	      	</form>
       	</div>
       </div>

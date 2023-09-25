@@ -54,13 +54,13 @@
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#">홈</a>
+        <a class="nav-link" href="/layout/main">홈</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">로그인</a>
+        <a class="nav-link" href="/user/sign-in">로그인</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">회원가입</a>
+        <a class="nav-link" href="/user/sign-up">회원가입</a>
       </li>    
     </ul>
   </div>  
